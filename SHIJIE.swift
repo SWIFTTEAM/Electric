@@ -7,3 +7,10 @@
 //
 
 import Foundation
+
+func shijie(){
+    
+    var a: Int = 0;
+    var b: Int = 0;
+    
+}
