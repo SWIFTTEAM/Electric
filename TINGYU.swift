@@ -7,3 +7,6 @@
 //
 
 import Foundation
+func  a{
+    :D;
+}
