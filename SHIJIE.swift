@@ -8,9 +8,9 @@
 
 import Foundation
 
-func shijieabc(){
+func SHIJIE(){
     
-    var a : String = "";
+    var aaa: Int = 0;
     
    
     

@@ -8,6 +8,8 @@
 
 import Foundation
 
-func aaa(){
+func bbb(){
+    
+    let abc : Float = 0.0;
     
 }

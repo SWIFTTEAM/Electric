@@ -9,6 +9,8 @@
 import Foundation
 
 
-func abc(){
+func HSJ(){
+    
+    let abc = 123;
     
 }
