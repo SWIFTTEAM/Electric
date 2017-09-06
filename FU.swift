@@ -7,3 +7,5 @@
 //
 
 import Foundation
+
+func 123(){}
